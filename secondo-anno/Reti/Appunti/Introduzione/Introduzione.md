@@ -156,6 +156,7 @@ Low Earth Orbit:
 - Servono costellazioni di satelliti per garantire copertura continua
 - Latenza molto più bassa
 
+[[Nucleo della rete|Nucleo della rete]]
 
 
 

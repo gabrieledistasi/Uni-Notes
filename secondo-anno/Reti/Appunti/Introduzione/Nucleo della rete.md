@@ -189,3 +189,5 @@ Throughput $≈ min{R_{i}}$ dove $R_{i}$ è la velocità di trasmissione dell'i-
 In presenza di altro traffico invece, la banda viene divisa equamente, in base al numero di utenti attivi. 
 #remember 
 **Il throughput è limitato dal collegamento più lento e, se quel collegamento è condiviso, anche dalla quantità di traffico che lo attraversa.**
+
+[[Sicurezza| Sicurezza]]

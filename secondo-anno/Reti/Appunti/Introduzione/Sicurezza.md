@@ -55,3 +55,5 @@ Due strati non presenti nella pila di protocolli internet
 - presentazione: consente alle applicazioni di interpretare il significato dei dati, ad esempio crittografia, compressione, convenzioni specifiche della macchina. 
 - sessione: sincronizzazione, checkpointing, ripristino dello scambio dei dati 
 La pila internet "manca" di questi strati. Questi servizi, se necessari, devono essere implementati nelle applicazioni. 
+
+[[Applicazioni_di_rete | Applicazioni di rete]]
