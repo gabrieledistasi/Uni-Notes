@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "DNS"
             }
+          },
+          {
+            "id": "0bfc2954326024eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello di applicazione/BitTorrent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BitTorrent"
+            }
+          },
+          {
+            "id": "25b8c5c8b8df1884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello di applicazione/Streaming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Streaming"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,10 +231,16 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "572cf078be9d8fac",
+  "active": "25b8c5c8b8df1884",
   "lastOpenFiles": [
-    "Livello di applicazione/E-Mail.md",
+    "Images/Pasted image.png",
+    "Livello di applicazione/Streaming.md",
+    "Livello di applicazione/BitTorrent.md",
+    "Livello di applicazione/Architettura P2P.md",
     "Livello di applicazione/DNS.md",
+    "Livello di applicazione/E-Mail.md",
+    "Images/Pasted image 1.png",
+    "Images",
     "Livello di applicazione/UDP.md",
     "Livello di applicazione/TCP.md",
     "Livello di applicazione/Web Cache.md",

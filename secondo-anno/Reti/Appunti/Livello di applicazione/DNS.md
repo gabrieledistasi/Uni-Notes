@@ -50,3 +50,4 @@ Ogni tipo di record risponde a una domanda diversa, posta da client diversi in m
 ## Sicurezza del DNS
 Il DNS può essere soggetto ad attacchi DDoS, il tentativo di bombardare il traffico di root server non ha avuto molto successo. Bombardare i server TLD è potenzialmente il più pericoloso. 
 Un altro possibile attacco è lo spoofing attacco, intercettando le query DNS è possibile restituire risposte fasulle. 
+[[Architettura P2P | Architettura P2P]]
