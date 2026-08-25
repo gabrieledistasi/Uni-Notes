@@ -180,7 +180,7 @@ HTTP/2 su una singola connessione TCP significa:
 - Il recupero dalla perdita di pacchetti blocca comunque tutte le trasmissioni di oggetti
 - Come in HTTP 1.1, i browser sono incentivati ad aprire più connessioni TCP parallele per ridurre lo stallo e aumentare il throughput complessivo. 
 - nessuna sicurezza su una connessione TCP semplice 
-- HTTP/3 aggiunge sicurezza, un controllo di errore e congestione su UDP (vedi [[Introduzione| Livello di trasporto]])
+- HTTP/3 aggiunge sicurezza, un controllo di errore e congestione su UDP (vedi [[Livello_di_trasporto/Introduzione| Livello di trasporto]])
 
 [[Web Cache| Web Cache]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiplexing_Demultiplexing.md",
+                "file": "Livello_di_trasporto/Multiplexing_Demultiplexing.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,12 +202,12 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "25b8c5c8b8df1884",
+  "active": "e49d921f8721ed2c",
   "lastOpenFiles": [
-    "Introduzione.md",
-    "Multiplexing_Demultiplexing.md",
-    "TCP.md",
-    "UDP.md",
+    "Livello_di_trasporto/Introduzione.md",
+    "Livello_di_trasporto/Multiplexing_Demultiplexing.md",
+    "Livello_di_trasporto/TCP.md",
+    "Livello_di_trasporto/UDP.md",
     "Livello_di_applicazione/Web Cache.md",
     "Livello_di_applicazione/Streaming.md",
     "Livello_di_trasporto",
