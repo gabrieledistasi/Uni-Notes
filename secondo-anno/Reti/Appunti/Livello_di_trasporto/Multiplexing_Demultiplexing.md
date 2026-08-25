@@ -47,3 +47,4 @@ La socket TCP è identificata da quattro parametri:
 Demux: Il lato ricevente usa i quattro valori per inviare il segmento alla socket appropriata. 
 Un host server crea una socket passiva specificando un numero di porta. 
 La socket passiva viene usata per accettare le richieste di connessione, per ciascuna verrà creata una socket connessa.
+[[UDP | UDP]]

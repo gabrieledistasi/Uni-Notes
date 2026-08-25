@@ -28,3 +28,5 @@ A questo punto entra in gioco il livello di rete, che prende il segmento e lo in
 	Il punto importante è che non li passa a caso: deve capire a quale processo/applicazione consegnarli. [[Multiplexing_Demultiplexing | Multiplexing Demultiplexing]]
 
 I router nel cammino da un host all'altro operano solo su intestazione del datagramma, ignorando il segmento incapsulato al suo interno. 
+
+[[Multiplexing_Demultiplexing | Multiplexing e Demultiplexing]]
