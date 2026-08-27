@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello_di_trasporto/UDP.md",
+                "file": "Livello_di_trasporto/Trasferimento_Dati_Affidabile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UDP"
+              "title": "Trasferimento_Dati_Affidabile"
             }
           }
         ],
@@ -219,11 +219,17 @@
   },
   "active": "79a4057d92a5c417",
   "lastOpenFiles": [
-    "Livello_di_trasporto/TCP.md",
+    "Livello_di_trasporto/UDP.md",
     "Livello_di_trasporto/Multiplexing_Demultiplexing.md",
     "Livello_di_trasporto/Trasferimento_Dati_Affidabile.md",
+    "Images/Pasted image 20260827165730.png",
+    "Images/Pasted image 20260827172532.png",
+    "Images/Pasted image 20260827165223.png",
+    "Images/Pasted image 20260827164016.png",
+    "Images/Pasted image 20260827165628.png",
+    "Images/Pasted image 20260827170603.png",
+    "Livello_di_trasporto/TCP.md",
     "Pasted image 20260825180749.png",
-    "Livello_di_trasporto/UDP.md",
     "Images/Pasted image 20260825175954.png",
     "Livello_di_applicazione/HTTP.md",
     "Livello_di_applicazione/Applicazioni_di_rete.md",
@@ -244,7 +250,6 @@
     "Livello di applicazione/TCP.md",
     "Cookie.md",
     "Senza nome.base",
-    "Pasted image 20260813203731.png",
     "Introduzione/Introduzione.md",
     "Introduzione",
     "Livello di Applicazione.md",
@@ -252,7 +257,6 @@
     "Livello_di_applicazione",
     "Pasted image 20260811161541.png.md",
     "Nucleo della rete.md",
-    "Sicurezza.md",
-    "Pasted image 20260811161541.png"
+    "Sicurezza.md"
   ]
 }
