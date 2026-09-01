@@ -352,3 +352,5 @@ Il handshake serve principalmente a **inizializzare la connessione e sincronizza
 Client e server chiudono ciascuno il proprio lato della connessione, inviano il segmento TCP con il bit FIN = 1.
 Rispondono entrambi al FIN ricevuto con un ACK. 
 E' possibile gestire scambi FIN simultanei. 
+
+[[controllo_della_congestione| controllo della congestione]]
