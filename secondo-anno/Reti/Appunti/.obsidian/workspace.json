@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79a4057d92a5c417",
+            "id": "340fc3cc6aa38550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello_di_rete/IP_Protocol.md",
+                "file": "Funzioni del livello di rete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP_Protocol"
-            }
-          },
-          {
-            "id": "0a68d5c67c7841a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello_di_rete/DHCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DHCP"
-            }
-          },
-          {
-            "id": "dcce5ea492b27831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello_di_rete/Middlebox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Middlebox"
-            }
-          },
-          {
-            "id": "d94a82afb45a5698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello_di_rete/Middlebox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Middlebox"
+              "title": "Funzioni del livello di rete"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🔑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,8 +202,10 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "d94a82afb45a5698",
+  "active": "e49d921f8721ed2c",
   "lastOpenFiles": [
+    "Images/Pasted image 20260905173923.png",
+    "Funzioni del livello di rete.md",
     "Senza nome.md",
     "Livello_di_rete/Middlebox.md",
     "Livello_di_rete/Inoltro_generalizzato.md",
@@ -280,12 +239,9 @@
     "Livello_di_applicazione/BitTorrent.md",
     "Livello_di_applicazione/Architettura P2P.md",
     "Livello_di_applicazione/Web Cache.md",
-    "Livello_di_trasporto/Multiplexing_Demultiplexing.md",
     "Pasted image 20260829193523.png",
-    "Images/Pasted image 20260829192738.png",
     "Livello_di_trasporto",
     "Images",
-    "Livello di applicazione/UDP.md",
     "Senza nome.base",
     "Introduzione",
     "Livello_di_applicazione"
