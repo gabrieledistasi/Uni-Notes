@@ -61,8 +61,8 @@ L'informazione deve essere propagata agli altri router di `AS1`.
 Così un router interno può costruire la propria tabella di inoltro. 
 
 
-# #🌐 Instradamento inter-AS
-I protocolli di instradamento inter-AS sono: 
+# #🌐 Instradamento intra-AS
+I protocolli di instradamento intrar-AS sono: 
 - **RIP: Routing Information Protocol**
 		DV classico: DV scambiati ogni 30 secondi
 - **EIGRP: Enhanced Interior Gateway Routing Protocol**
@@ -75,7 +75,7 @@ I protocolli di instradamento inter-AS sono:
 # #📌 OSPF(Open shortest Path first)
 "aperto": disponibile pubblicamente 
 classico link-state: 
-	ciascun router utilizza il *flooding* per inviare in broadcast le informazioni circa lo stato dei collegamenti a tutti gli altri router nell'intero AS. 
+	ciascun router utilizza il **flooding** per diffondere le informazioni sullo stato dei collegamenti all'interno dell'AS/area.
 	Costo dei collegamenti: inversamente proporzionale alla larghezza di banda.
 	Ogni router dispone di una topologia completa e utilizza Dijkstra per calcolare la tabella di inoltro. 
 
@@ -84,7 +84,7 @@ L'instradamento ECMP consente di instradare pacchetti ad una stessa destinazione
 Un pacchetto che deve inoltrare un pacchetto fa load balancing tra i possibili next-hop:
 - **Per flusso:** il router utilizza una funzione di hash sui campi che identificano il flusso, da quei valori calcola l'hash e decide quale next-hop utilizzare. 
 - **Per destinazione:** la funzione di hash in questo caso, utilizza come unico input *l'indirizzo IP di destinazione*, tutti i pacchetti diretti verso `X` avranno lo stesso percorso, anche se provengono da host differenti. 
-- **Per pacchetto:** qui il router può scegliere un percorso diverso per ogni singolo pacchetto, questo può creare problemi per TCP: 
+- **Per pacchetto:** qui il router può scegliere un percorso diverso per ogni singolo pacchetto, questo può creare problemi per [[TCP|TCP]]: 
 	- Consegna fuori ordine 
 	- Variabilità del ritardo 
 	- Variabilità della MTU minima
@@ -197,7 +197,7 @@ Il controller ha due direzioni di comunicazione.
 
 **Northbound API**
 Collega: 
-*applicazioni $\rightarrow$ switch*
+*applicazioni $\rightarrow$ controller
 Le applicazioni richiedono al controller di realizzare determinati comportamenti. 
 
 **Southbound API**
@@ -225,7 +225,7 @@ Per questo si vuole rendere il controller:
 	viene considerata attraverso: 
 	- availability $\rightarrow$ quanto tempo il sistema è operativo
 	- reliability $\rightarrow$ quanto riesce a funzionare correttamente senza interruzioni
-	- safety $\rightarrow$ posizione degli incidenti
+	- safety $\rightarrow$ capacità di evitare conseguenze dannose/incidenti
 	- security $\rightarrow$ protezione da intrusioni/accessi indesiderati
 
 ### 3. 🚀 Reti con requisiti particolari
@@ -272,3 +272,4 @@ Infine, la slide sottolinea che:
 > **l'SDN è fondamentale per le reti cellulari 5G.**
 
 Il motivo concettuale è che il 5G richiede una rete molto **programmabile, flessibile e dinamica**, caratteristiche che si sposano bene con l'approccio SDN.
+[[ICMP | ICMP]]

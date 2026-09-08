@@ -268,3 +268,4 @@ Il problema è che:
 > **il Distance Vector di ogni router viene utilizzato dagli altri router.**
 
 Quindi un'informazione errata può **propagarsi attraverso la rete**.
+[[Autonomous_system | AS]]

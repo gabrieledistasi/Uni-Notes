@@ -132,3 +132,5 @@ Le tre convinzioni fondamentali sono:
 #🧠 #remember
 
 > **Le middlebox sono dispositivi intermedi che svolgono funzioni oltre il semplice forwarding IP; la loro evoluzione, insieme a SDN, match+action e NFV, ha reso la rete sempre più programmabile e complessa, mentre il principio architetturale originario di Internet privilegia una rete semplice e l'intelligenza agli estremi secondo il paradigma end-to-end.**
+
+[[Funzioni del livello di rete | Funzioni del livello di rete]]
