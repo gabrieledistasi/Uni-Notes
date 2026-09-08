@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni del livello di rete.md",
+                "file": "Livello_di_rete/Autonomous_system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funzioni del livello di rete"
+              "title": "Autonomous_system"
             }
           }
         ]
@@ -204,18 +204,24 @@
   },
   "active": "e49d921f8721ed2c",
   "lastOpenFiles": [
+    "Images/Pasted image 20260908140420.png",
+    "Livello_di_rete/Inoltro_generalizzato.md",
+    "Livello_di_rete/IPv6.md",
+    "Livello_di_rete/Autonomous_system.md",
+    "Livello_di_rete/Funzioni del livello di rete.md",
+    "Livello_di_rete/Livello_di_rete_introduzione.md",
+    "Images/Pasted image 20260908134606.png",
+    "Introduzione/Introduzione.md",
+    "Introduzione/Nucleo della rete.md",
+    "Introduzione/Sicurezza.md",
     "Images/Pasted image 20260905173923.png",
     "Funzioni del livello di rete.md",
-    "Senza nome.md",
     "Livello_di_rete/Middlebox.md",
-    "Livello_di_rete/Inoltro_generalizzato.md",
     "Livello_di_rete/NAT.md",
-    "Livello_di_rete/IPv6.md",
     "Pasted image 20260903160238.png",
     "Images/Pasted image 20260903153740.png",
     "Livello_di_rete/DHCP.md",
     "Livello_di_rete/IP_Protocol.md",
-    "Livello_di_rete/Livello_di_rete_introduzione.md",
     "Livello_di_trasporto/controllo_della_congestione.md",
     "Images/Pasted image 20260902004638.png",
     "Pasted image 20260902003904.png",
@@ -231,15 +237,10 @@
     "Livello_di_applicazione/E-Mail.md",
     "Livello_di_applicazione/HTTP.md",
     "Livello_di_applicazione/Applicazioni_di_rete.md",
-    "Introduzione/Sicurezza.md",
-    "Introduzione/Nucleo della rete.md",
-    "Introduzione/Introduzione.md",
     "Livello_di_trasporto/Introduzione.md",
     "Livello_di_applicazione/Streaming.md",
     "Livello_di_applicazione/BitTorrent.md",
     "Livello_di_applicazione/Architettura P2P.md",
-    "Livello_di_applicazione/Web Cache.md",
-    "Pasted image 20260829193523.png",
     "Livello_di_trasporto",
     "Images",
     "Senza nome.base",
