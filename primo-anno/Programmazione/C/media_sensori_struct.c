@@ -58,3 +58,15 @@ double *medie_sensori(const sensore *vettore, int n){
 
     
 }
+
+/*
+ * COMPLESSITÀ TEMPORALE: O(K)
+ * Dove K è il numero totale di letture presenti in tutti i sensori messi insieme 
+ * (ossia K = n_letture_1 + n_letture_2 + ... + n_letture_n).
+ * Nel caso in cui ciascun sensore abbia un numero medio M di letture, la complessità 
+ * si può esprimere come O(n * M).
+ *
+ * COMPLESSITÀ SPAZIALE: O(n)
+ * La memoria ausiliaria allocata dinamicamente con malloc è destinata all'array res
+ * di n elementi di tipo double.
+ */

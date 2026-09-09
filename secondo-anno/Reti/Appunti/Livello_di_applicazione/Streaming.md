@@ -82,6 +82,8 @@ L'infrastruttura CDN può utilizzare meccanismi di instradamento/richiesta per i
 #### Ma se il server CDN non possiede ancora il contenuto? 
 Supponiamo che la CDN di Roma non abbia il video richiesto dal client, può richiederlo all'origin server. Dal momento in cui la CDN di Roma riceve il video, altri utenti possono ottenere il contenuto direttamente dalla CDN di Roma. La CDN funziona come una gigantesca rete di **cache distribuite**.
 La CDN è particolarmente utile per lo streaming in quanto quest'ultimo genera molto traffico, il contenuto viene distribuito una volta per ciascun area/server CDN, invece di dover percorrere continuamente l'intera internet per ogni singolo utente. 
+[[Livello_di_trasporto/Introduzione|Introduzione]]
+
 
 
 

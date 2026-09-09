@@ -182,5 +182,5 @@ HTTP/2 su una singola connessione TCP significa:
 - nessuna sicurezza su una connessione TCP semplice 
 - HTTP/3 aggiunge sicurezza, un controllo di errore e congestione su UDP (vedi [[Livello_di_trasporto/Introduzione| Livello di trasporto]])
 
-[[Web Cache| Web Cache]]
+[[Web_Cache| Web Cache]]
 

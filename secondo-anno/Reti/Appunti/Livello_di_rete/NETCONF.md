@@ -44,3 +44,5 @@ NETCONF invece permette al controller di dire:
 > "Modifica la configurazione dell'interfaccia `eth0`."
 
 Quindi **YANG non è il protocollo di comunicazione**: quello è NETCONF.
+
+[[Livello_di_collegamento_introduzione|Livello di collegamento]]
