@@ -4,49 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a01e6237ddcf10",
+        "id": "1072f131bdc2a3ab",
         "type": "tabs",
         "children": [
           {
-            "id": "340fc3cc6aa38550",
+            "id": "8597f8b98a4f18bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello_di_rete/Autonomous_system.md",
+                "file": "Livello_di_collegamento/Protocolli_di_accesso_multiplo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autonomous_system"
+              "title": "Protocolli_di_accesso_multiplo"
             }
           },
           {
-            "id": "60fb383bdcbe3a2a",
+            "id": "526003eae2965bdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello_di_rete/NETCONF.md",
+                "file": "Livello_di_collegamento/LAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NETCONF"
-            }
-          },
-          {
-            "id": "b193681474e2c4c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "title": "LAN"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🔑",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,8 +217,14 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "b193681474e2c4c3",
+  "active": "e49d921f8721ed2c",
   "lastOpenFiles": [
+    "Images/Pasted image 20260910155938.png",
+    "Livello_di_collegamento/Protocolli_di_accesso_multiplo.md",
+    "Livello_di_collegamento/Livello_di_collegamento_introduzione.md",
+    "Livello_di_rete/NETCONF.md",
+    "Livello_di_collegamento/LAN.md",
+    "Livello_di_rete/ICMP.md",
     "Livello_di_trasporto/UDP.md",
     "Livello_di_trasporto/Multiplexing_Demultiplexing.md",
     "Livello_di_trasporto/Introduzione.md",
@@ -243,8 +239,6 @@
     "Introduzione/Sicurezza.md",
     "Introduzione/Nucleo della rete.md",
     "Introduzione/Introduzione.md",
-    "Livello_di_collegamento/Livello_di_collegamento_introduzione.md",
-    "Livello_di_rete/NETCONF.md",
     "Livello_di_collegamento",
     "Livello_di_rete/NAT.md",
     "Livello_di_rete/DHCP.md",
@@ -255,12 +249,8 @@
     "Images/Pasted image 20260908165042.png",
     "Livello_di_rete/gestione_della_rete.md",
     "Images/Pasted image 20260908154836.png",
-    "Livello_di_rete/ICMP.md",
     "Livello_di_rete/Autonomous_system.md",
     "Livello_di_trasporto/TCP.md",
-    "Livello_di_rete/Funzioni del livello di rete.md",
-    "Livello_di_rete/Middlebox.md",
-    "Livello_di_rete/Inoltro_generalizzato.md",
     "Images/Pasted image 20260908140420.png",
     "Images/Pasted image 20260908134606.png",
     "Images/Pasted image 20260905173923.png",

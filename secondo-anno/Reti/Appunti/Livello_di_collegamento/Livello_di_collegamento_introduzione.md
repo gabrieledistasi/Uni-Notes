@@ -86,5 +86,5 @@ Il mittente deve trovare R in modo che:
 $(D, R)$
 Sia **divisibile esattamente per G**, utilizzando l'aritmetica modulo 2.
 
-
+[[Protocolli_di_accesso_multiplo | protocolli di accesso multiplo]]
 
