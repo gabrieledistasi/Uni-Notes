@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Esercizi introduzione"
             }
+          },
+          {
+            "id": "3c3a9c4e97b0e853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esercizi Checksum internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esercizi Checksum internet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +203,11 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "7cff49ddcbf26d4e",
+  "active": "3c3a9c4e97b0e853",
   "lastOpenFiles": [
-    "mermaid-diagram.png",
     "Esercizi introduzione.md",
+    "Esercizi Checksum internet.md",
+    "mermaid-diagram.png",
     "Pasted image 20260910194549.png",
     "Pasted image 20260910194408.png"
   ]

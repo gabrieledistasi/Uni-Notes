@@ -1,4 +1,4 @@
-
+Questi esercizi fanno riferimento alla slide SOR2025-2026_Reti_05_Esercizi_Introduzione-v3.pdf
 
 # Esercizio 1
 
