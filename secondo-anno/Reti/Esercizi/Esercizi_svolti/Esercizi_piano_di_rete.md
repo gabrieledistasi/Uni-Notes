@@ -3,7 +3,7 @@ SOR2025-2026_Reti_22_Esercizi_Livello_di_rete_piano_dei_dati.pdf
 
 ---
 Per questo tipo di esercizi l'algoritmo, a grandi linee, è questo: 
-
+```
 1. Guardo il primo ottetto
         ↓
 2. Determino la classe
@@ -15,6 +15,7 @@ Per questo tipo di esercizi l'algoritmo, a grandi linee, è questo:
 5. Host = n bit → 2^n - 2 host
         ↓
 6. Broadcast = tutti i bit HOST a 1
+```
 
 # Esercizio 1
 
@@ -218,7 +219,7 @@ Abbiamo bisogno di supportare **1001 interfacce**.
 
 La formula è:
 
-2h−2≥10012^h-2 \geq 1001
+$$2^h−2≥1001$$
 
 Proviamo:
 
