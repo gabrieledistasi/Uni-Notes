@@ -132,14 +132,17 @@ Quindi:
 
 Si consideri la seguente tabella di inoltro: 
 
-Prefisso                        |          Porta
+```
+Prefisso             |          Porta
 142.251.200.0/24     |           0
 142.251.192.0/18     |           1
-142.251.0.0/16          |           2
-0.0.0.0/0                      |           3 
+142.251.0.0/16       |           2
+0.0.0.0/0            |           3 
+```
 
-Verso quale porta viene inoltrato un pacchetto destinato all'indirizzo IP
-142.251.209.3?
+
+**Verso quale porta viene inoltrato un pacchetto destinato all'indirizzo IP**
+**142.251.209.3?**
 
 
 ### Soluzione
