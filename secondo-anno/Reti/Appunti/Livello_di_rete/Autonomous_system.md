@@ -187,7 +187,7 @@ Le applicazioni di controllo possono occuparsi, ad esempio, di routing, controll
 	- Mantiene le informazioni sullo **stato della rete**
 	- comunica con gli switch
 	- riceve informazioni degli switch
-	- permette alle applicazioni di controllo di interagire contro la rete. 
+	- permette alle applicazioni di controllo di interagire con la rete. 
 
 ## Applicazioni di controllo di rete
 Sopra il controller possiamo avere applicazioni che implementano le funzioni di controllo. Queste applicazioni sono una sorta di **"cervello"** della rete: utilizzano i servizi messi a disposizione dal controller tramite API.
