@@ -173,3 +173,42 @@ Ci chiediamo di nuovo se possiamo fare la divisione, abbassando lo zero, si
 E continuiamo così, fin quando non arriviamo alla fine e otteniamo l'EDC = 11010011. 
 
 
+--- 
+# Esercizio 6
+Un frame di 𝑁 bit viene trasmesso attraverso un collegamento
+soggetto a errori su bit indipendenti con probabilità 𝑝.
+Qual è la probabilità che:
+1. Il frame sia ricevuto senza errori
+2. Il frame sia ricevuto con un errore
+3. Il frame sia ricevuto con errori multipli (2 o più)
+Applicare queste probabilità alla discussione dell'efficacia del bit di
+parità.
+
+### Soluzione 
+Il numero di bit invertiti, per questo esercizio, non è un numero specifico, bensì come qualcosa che può assumere diversi valori... come una **variabile aleatoria**. 
+Dunque possiamo considerare il numero di bit X come una variabile aleatoria che ha distribuzione binomiale con parametri N e p, perché gli errori possono avvenire solo da 0 a N bit con probabilità p. 
+##### Probabilità di ricevere il frame senza errori
+Conoscendo la formula della distribuzione binomiale: 
+$$
+P(X=k) = \binom{n}{k}\cdot p^k \cdot (1-p)^{n-k}
+$$
+Applicandola ai parametri, sapendo che k per il primo punto corrisponde a 1, otteniamo: 
+$$
+P(X=0)=\binom{N}{0}\cdot p^0 \cdot (1-p)^N
+$$
+Quindi questa è la probabilità di ricevere il frame senza errori. 
+
+##### Probabilità di ricevere il frame con un errore
+La formula è la stessa, varia soltanto il parametro k: 
+$$
+P(X=1)=\binom{N}{1}\cdot p^1 \cdot (1-p)^{N-1}
+$$
+##### Probabilità di ricevere il frame con più di due errori
+La probabilità che si verifichino due o più errori, sarà una sommatoria che parte da k = 2 e sarà così definita: 
+$$
+P(X\geq 2) = \sum_{k\geq 2}\binom{N}{k} \cdot p^k \cdot (1-p)^{N-k}
+$$
+Inoltre, sapendo che la somma di tutte le probabilità è = 1, possiamo dedurre questa probabilità: 
+$$
+P(X \geq 2) = 1 - \binom{N}{1}\cdot p^1 \cdot (1-p)^{N-1} - \binom{N}{0}\cdot p^0\cdot (1-p)^{N}
+$$

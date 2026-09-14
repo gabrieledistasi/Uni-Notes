@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esercizi_livello_di_collegamento.md",
+                "file": "Esercizi_piano_di_rete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercizi_livello_di_collegamento"
+              "title": "Esercizi_piano_di_rete"
             }
           }
         ],
@@ -219,9 +219,9 @@
   },
   "active": "c1b7c148932927f7",
   "lastOpenFiles": [
+    "Esercizi_livello_di_collegamento.md",
     "Esercizi_piano_di_rete.md",
     "Esercizi_introduzione.md",
-    "Esercizi_livello_di_collegamento.md",
     "Images",
     "Images/Pasted image 20260913214529.png",
     "Esercizi_Checksum_internet.md",
