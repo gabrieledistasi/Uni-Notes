@@ -122,7 +122,7 @@ Un frame trasmesso a $t_{0}$ può collidere con frame iniziati in:
 $[t_{0} - T, t_{0} + T]$ quindi la probabilità di collisione **aumenta.**
 Risultato: 
 $$
-eff_max = \frac{1}{2e} ≈ 18\%
+eff_{max} = \frac{1}{2e} ≈ 18\%
 $$
 
 # #📌 CSMA 
@@ -247,7 +247,7 @@ Solo chi possiede il token può trasmettere, dopo aver terminato la trasmissione
 Una rete via cavo combina: 
 - FDM $\rightarrow$ frequenze diverse; 
 - TDM $\rightarrow$ slot temporali; 
-- **accesso centralizzato**;
+- **allocazione centralizzato**;
 - **accesso casuale.**
 Nel downstream: 
 ```
@@ -263,10 +263,10 @@ molti utenti devono condividere il canale. Per questo alcuni slot vengono assegn
 
 ### DOCSIS
 E' lo standard per l'interfaccia dei servizi dati via cavo. 
-pecifiche di interfaccia del servizio dati via cavo
+Specifiche di interfaccia del servizio dati via cavo
 - FDM su canali di frequenze upstream e downstream
 - TDM upstream: alcuni slot assegnati, alcuni sono contesi
-	- mFrame MAP in downstream: assegna i minislot in upstream
+	- Frame MAP in downstream: assegna i minislot in upstream
 	- Richieste di frame in upstream (e dati) trasmessi con accesso casuale
 	 (binary backoff) in slot selezionati
 

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireless/Wireless_pt2.md",
+                "file": "Livello_di_collegamento/Protocolli_di_accesso_multiplo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireless_pt2"
+              "title": "Protocolli_di_accesso_multiplo"
             }
           }
         ],
@@ -231,17 +231,17 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "e49d921f8721ed2c",
+  "active": "d09743057a95d4ee",
   "lastOpenFiles": [
-    "Wireless",
+    "Livello_di_collegamento/Livello_di_collegamento_introduzione.md",
+    "Livello_di_collegamento/LAN.md",
+    "Livello_di_collegamento/Protocolli_di_accesso_multiplo.md",
     "Wireless/Wireless.md",
     "Wireless/Wireless_pt2.md",
+    "Wireless",
     "Livello_di_rete/Inoltro_generalizzato.md",
-    "Livello_di_collegamento/Protocolli_di_accesso_multiplo.md",
     "Senza nome.base",
-    "Livello_di_collegamento/LAN.md",
     "Images/Pasted image 20260910155938.png",
-    "Livello_di_collegamento/Livello_di_collegamento_introduzione.md",
     "Livello_di_rete/NETCONF.md",
     "Livello_di_rete/ICMP.md",
     "Livello_di_trasporto/UDP.md",
