@@ -509,7 +509,7 @@ Quindi:
 *isolamento del traffico:* i frame verso/da le porte 1-8 possono raggiungere soltanto le porte 1-8. 
 - Si possono definire anche le VLAN basate sugli indirizzi MAC degli endpoint, piuttosto che sulle porte. 
 *appartenenza dinamica:* le porte possono essere assegnate dinamicamente tra le VLAN
-*Inolttro tra VLAN:* fatto tramite routing. 
+*Inoltro tra VLAN:* fatto tramite routing. 
 
 ## VLAN su più switch 
 Qui arriva il problema interessante. 
