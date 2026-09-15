@@ -55,13 +55,14 @@ Tutto insieme diventa:
 Ora bisogna guardare il primo ottetto: 
 `142`
 
+```
 Le classi sono: 
-|Classe|                Primo ottetto                            |Prefisso|
-|---         |--                                                                    |                |
-|A          |                     1–126                                      |     /8      |
-|B          |                    128–191                                  |   /16      |
-|C          |                    192–223                                  |   /24      |
-
+|Classe |  Primo ottetto |Prefisso|
+|---    |--              |        |
+|A      |    1–126       |  /8    |
+|B      |   128–191      |  /16   |
+|C      |   192–223      |  /24   |
+```
 dato che 142 è tra 128 e 191, l'indirizzo appartiene alla **classe B**. 
 
 Quindi nel sistema classful: 
