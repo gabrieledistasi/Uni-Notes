@@ -90,3 +90,6 @@ E l'esecuzione delle quintuple su un insieme fissato di dati si chiama **computa
 #### Attenzione!!!
 Fondamentale distinguere la *macchina di Turing*, cioè la descrizione di un procedimento di risoluzione di un problema espresso nel linguaggio definito da Alan Turing. 
 Il linguaggio che costituisce il modello di calcolo: il modello *Macchina di Turing*. (Con la M maiuscola).
+
+[[Macchine_di_Turing| Macchine di Turing]]
+
