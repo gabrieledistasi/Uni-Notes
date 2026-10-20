@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8353e3dc3ea467e",
+        "id": "8302883534c0caba",
         "type": "tabs",
         "children": [
           {
-            "id": "dad3dea3eab50e87",
+            "id": "104dfa5faf19a3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criteri di costi.md",
+                "file": "Ricorsione ed equazioni di ricorrenza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criteri di costi"
+              "title": "Ricorsione ed equazioni di ricorrenza"
             }
           }
         ]
@@ -188,9 +188,10 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "dad3dea3eab50e87",
+  "active": "104dfa5faf19a3ba",
   "lastOpenFiles": [
-    "Introduzione.md",
-    "Criteri di costi.md"
+    "Criteri di costi.md",
+    "Ricorsione ed equazioni di ricorrenza.md",
+    "Introduzione.md"
   ]
 }

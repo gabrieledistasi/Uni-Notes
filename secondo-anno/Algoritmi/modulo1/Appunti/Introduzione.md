@@ -199,4 +199,5 @@ $$
 **Nota:** Una chiamata usa sempre almeno memoria costante, anche se non utilizza variabili ausiliarie. 
 Analizzare l'albero della ricorsione aiuta a capire quali chiamate possono essere attive nello stesso momento. 
 
+[[Criteri di costi | Criteri di costi]]
 
