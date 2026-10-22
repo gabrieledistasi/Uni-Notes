@@ -129,3 +129,5 @@ Perché le righe 1, 2 e 5 vengono eseguite una sola volta, le righe 3,4 vengono 
 La notazione asintotica è un modo eccellente per misurare l'efficienza di un algoritmo in quanto è indipendente dalla macchina su cui è eseguito. 
 I dettagli nascosti sono poco rilevanti quando n è grande abbastanza per funzioni asintoticamente diverse. 
 L'analisi dettagliata dei passi eseguiti da un algoritmo diventerebbe complicata e noiosa, la notazione asintotica è invece in grado di descrivere bene la complessità degli algoritmi. 
+
+[[Ricorsione ed equazioni di ricorrenza|equazioni di ricorrenza]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8302883534c0caba",
+        "id": "b7cff984aef818b6",
         "type": "tabs",
         "children": [
           {
-            "id": "104dfa5faf19a3ba",
+            "id": "99b9cbbace323cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,10 +188,11 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "104dfa5faf19a3ba",
+  "active": "99b9cbbace323cee",
   "lastOpenFiles": [
+    "Algoritmi di ordinamento.md",
     "Criteri di costi.md",
-    "Ricorsione ed equazioni di ricorrenza.md",
-    "Introduzione.md"
+    "Introduzione.md",
+    "Ricorsione ed equazioni di ricorrenza.md"
   ]
 }

@@ -236,5 +236,5 @@ obiettivo:
 spostare i dischi dal palo A al palo c (facendo meno spostamenti possibile)
 
 
-
+[[Algoritmi di ordinamento|ordinamento]]
 
