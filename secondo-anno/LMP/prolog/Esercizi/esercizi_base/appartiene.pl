@@ -1,4 +1,4 @@
-%scrivere un predicato che dato un elemento in una lista vedere se l'elemento appartiene alla lista
+%scrivere un predicato che dato un elemento in una lista vedere se l elemento appartiene alla lista
 
 appartiene(X, [X|_]).
 appartiene(X, [_|T]):-
