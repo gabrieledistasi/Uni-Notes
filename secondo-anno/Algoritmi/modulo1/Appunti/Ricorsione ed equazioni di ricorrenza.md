@@ -1,5 +1,6 @@
 >Analizzare la complessità nel caso medio del primo algoritmo di pesatura Alg1 presentato nella prima lezione. Rispetto alla distribuzione di probabilità su istanze, si assuma che la moneta falsa possa trovarsi in modo equiprobabile in una qualsiasi delle n posizioni.
 
+#pseudocodice
 ```
 Alg1 (X={x1, ..., Xn})
 for i = 2 to n do
@@ -17,6 +18,8 @@ $$
 
 ## Ricerca di un elemento in una lista non ordinata
 Questo algoritmo restituisce la posizione si x (elemento da cercare) in L (array) se presente, -1 se x non è presente nell'array
+
+#pseudocodice
 ```
 algoritmo RicercaSequenziale(array L, elem x): --> intero
 n = lunghezza L
@@ -41,6 +44,7 @@ $T_avg(n) = \Theta(n)$ assumendo che $x \in L$ e che si trovi con la stessa prob
 In questo algoritmo utilizziamo due indici, i e j, che indicano la porzione di L in cui cercare l'elemento x. 
 L'algoritmo torna in posizione di x in L, se x c'è, -1 altrimenti. 
 
+#pseudocodice
 ```
 algoritmo ricercabinaria(array L, elem x, int i, int j)
 if(i>j)
