@@ -322,7 +322,7 @@ Questo è particolarmente utile per HeapSort, perché permette di riutilizzare l
 
 ## Come passiamo da albero ad array?
 Prendiamo questo Heap: 
-![[download 1.svg]]
+![[download 1 2.svg]]
 L'array risultante è: [37, 22, 31, 13, 15, 25, 14], per passare dall'albero all'array guardiamo quindi la radice, questo sarà il primo elemento contenuto nell'array. Scendendo al livello 1 e, leggendo da sinistra a destra, otteniamo il secondo valore, in questo caso 22, e spostandoci a destra abbiamo 31 sullo stesso livello, il procedimento continua fino a quando non abbiamo inserito tutti i nodi. 
 
 ### Tre formule da ricordare
@@ -344,7 +344,7 @@ Ricordiamo la proprietà di MaxHeap:
 $$chiave(padre(v))>padre(v)$$
 Ogni padre dovrà essere maggiore o uguale ai suoi figli. 
 
-![[download 1.svg|613]]
+![[download 1 2.svg|613]]
 Vedendo quest'albero notiamo che la radice è < rispetto ai figli, tuttavia, i sottoalberi sono già heap validi, dobbiamo quindi risolvere questo problema utilizzando `fixheap`.
 L'idea del `FixHeap` è quella di **far scendere il valore sbagliato**.
 La procedura funziona così: 
@@ -354,7 +354,7 @@ La procedura funziona così:
 - Continua sul figlio su cui è finito il valore più piccolo. 
 
 Quindi facciamo scendere nell'albero un valore, fin quando la proprietà di ordinamento non viene ripristinata. 
-![[download 2.svg|700]]
+![[download 2 1.svg|700]]
 Trasformiamo da albero ad array: $[4, 16, 10, 14, 7, 9, 3, 2, 8, 1]$  
 Confrontiamo la radice con i suoi figli: 
 - figlio sinistro 16
@@ -407,7 +407,7 @@ $$T(n)=O(logn)$$ Nel caso migliore, se il nodo è maggiore o uguale ai figli, la
 # L'idea di estrazione del massimo
 
 Consideriamo questo albero:
-![[download 2.svg|700]]
+![[download 2 1.svg|700]]
 Ricordiamo che in un `maxHeap` il massimo si trova sempre nella radice. In quest'albero, vogliamo rimuovere il nodo contenente il valore 16, il problema è che se rimuoviamo questo nodo lasciamo un buco nell'albero e perdiamo la struttura richiesta dall'heap.
 Per questo seguiamo tre passaggi: 
 - Copiamo nella radice la chiave contenuta nella foglia più a destra dell'ultimo livello 
