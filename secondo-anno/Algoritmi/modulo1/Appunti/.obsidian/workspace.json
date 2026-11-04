@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strutture dati elementari.md",
+                "file": "Il problema del dizionario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strutture dati elementari"
+              "title": "Il problema del dizionario"
             }
           }
         ]
@@ -188,11 +188,14 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "3aa944aac67a2ca4",
+  "active": "ece6ff724a38f925",
   "lastOpenFiles": [
+    "images/Pasted image 20261103124051.png",
+    "Strutture dati elementari.md",
+    "Strutture dati elementari].md",
+    "Il problema del dizionario.md",
     "Upper&Lower-Bound.md",
     "Algoritmi di ordinamento.md",
-    "Strutture dati elementari.md",
     "download.svg",
     "images/download 1 3.svg",
     "images/download 3.svg",
