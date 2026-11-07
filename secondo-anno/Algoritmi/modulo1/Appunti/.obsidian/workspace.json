@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Problema della coda con priorità"
             }
+          },
+          {
+            "id": "340c99af25eec9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grafi e visite di grafi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grafi e visite di grafi"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +217,11 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "da0b26d788b64921",
+  "active": "340c99af25eec9b4",
   "lastOpenFiles": [
-    "Il problema del dizionario.md",
     "Problema della coda con priorità.md",
+    "Grafi e visite di grafi.md",
+    "Il problema del dizionario.md",
     "images/Pasted image 20261103124051.png",
     "Strutture dati elementari.md",
     "Strutture dati elementari].md",
