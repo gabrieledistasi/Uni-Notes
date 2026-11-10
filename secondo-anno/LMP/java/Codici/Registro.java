@@ -69,6 +69,15 @@ public class Registro<T extends Comparable<T>>{
         
     }
 
+    public static <T> T ultimo(T[] valori){
+
+        if (valori.length==0){
+            return null;
+        }
+
+        return valori[(valori.length)-1]; 
+    }
+
     //questo è il generico metodo per poter ordinare un'ArrayList in base ad un criterio
     public void ordina(Comparator<T> criterio){
         elementi.sort(criterio); 
