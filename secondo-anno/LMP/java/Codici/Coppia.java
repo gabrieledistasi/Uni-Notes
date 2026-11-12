@@ -17,7 +17,7 @@ public class Coppia<K, V>{
     }
 
     public static void main(String[] args){
-        Coppia<String, Integer> c = new Coppia("eta", 22 ); 
+        Coppia<String, Integer> c = new Coppia<>("eta", 22 ); 
         
     }
 }

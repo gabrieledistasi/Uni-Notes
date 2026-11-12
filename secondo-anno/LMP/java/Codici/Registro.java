@@ -17,7 +17,7 @@ RISPOSTA:
 In Java, quando dichiariamo un bounded type parameter, usiamo sempre extends, anche quando il vincolo è un'interfaccia.
 Per dichiarare un bounded type parameter multiplo si inseriscono sempre prima le classi e poi le interfacce.
 */
-public class Registro<T extends Comparable<T>>{
+public class Registro <T extends Comparable<T>>{
     private ArrayList<T> elementi; 
 
     public Registro(){
